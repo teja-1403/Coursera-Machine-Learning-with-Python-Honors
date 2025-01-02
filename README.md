@@ -1,5 +1,5 @@
 # Coursera: Machine Learning with Python: Final Project
-This project involves building a classifier to predict rainfall for the next day based on weather data from the Australian Government's Bureau of Meteorology. Various machine learning techniques such as Linear Regression, KNN, Decision Trees, Logistic Regression, and SVM were implemented and evaluated.
+This project involves building a classifier to predict rainfall for the next day based on weather data from the Australian Government's Bureau of Meteorology. Various machine learning techniques such as Linear Regression, KNN, Decision Trees, Logistic Regression, and SVM were implemented and evaluated using key metrics such as Accuracy Score, Jaccard Index, F1-Score, LogLoss, Mean Absolute Error, Mean Squared Error, and R2-Score.
 
 **Project Scenario:**
 
